@@ -14,3 +14,6 @@ This repository includes:
 My goal is to learn consistently, strengthen my fundamentals, and grow into a skilled Data Scientist.
 
 **Learning in public. Building every day. Growing with every commit!** 💻✨
+
+**The list of projects**
+1. Netflix Content Exploratory Data Analysis
