@@ -18,3 +18,4 @@ My goal is to learn consistently, strengthen my fundamentals, and grow into a sk
 **The list of projects**
 1. Netflix Content Exploratory Data Analysis
 2. Crop disease in area detection analysis
+3. Pollution tracking in the cities during diwali and different seasons.
